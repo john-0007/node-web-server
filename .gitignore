@@ -12,6 +12,7 @@
 node_modules/
 .tmp/
 playground/
+server.log/
 
 # OS or Editor folders
 .DS_Store
