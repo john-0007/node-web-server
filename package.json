@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/john-0007/node-web-server#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "hbs": "^4.0.1"
   },
   "devDependencies": {
     "eslint": "^4.19.1",
